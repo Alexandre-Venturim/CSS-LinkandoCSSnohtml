@@ -1,0 +1,9 @@
+h1{
+    color: red;
+}
+p{
+    color: green;
+    width: 10%;
+    border: 4px solid;
+    border-color: black;
+}
